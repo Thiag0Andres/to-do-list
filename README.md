@@ -1,16 +1,33 @@
-# to_do_list
+<h1 align="center" width="220px">
+    To Do List
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Getting Started
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-This project is a starting point for a Flutter application.
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Flutter](https://docs.flutter.dev/get-started/learn-more)
+
+## 💻 Projeto
+
+Este projeto em Flutter é uma lista de tarefas simples com um botão de "Cadastrar" e um header ajustados para uma estética de azul claro com texto branco. Oferece funcionalidades básicas de adicionar e marcar tarefas como completas, mantendo uma interface limpa e intuitiva.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
